@@ -13,11 +13,11 @@
   "devDependencies": {
     "enzyme-wait": "^1.0.9",
     "jsdom": "^9.9.1",
-    "mocha": "^5.2.0",
-    "react-scripts": "^1.0.7",
+    "mocha": "^9.1.1",
+    "react-scripts": "^1.1.5",
     "react-test-renderer": "^16.0.0",
-    "webpack": "^3.6.0",
-    "webpack-dev-server": "^3.1.11"
+    "webpack": "^5.53.0",
+    "webpack-dev-server": "^4.2.1"
   },
   "dependencies": {
     "babel-core": "^6.22.1",
